@@ -1,4 +1,4 @@
-*** Starbucks Capstone Project
+### Starbucks Capstone Project
 
 Installation
 Project Motivation
