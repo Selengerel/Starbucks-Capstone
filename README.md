@@ -1,11 +1,5 @@
 # Starbucks Capstone Project
 
-Installation
-Project Motivation
-Run the project
-Conclusion and Results
-Acknowledgements
-
 ## Table of Contents
 
 1. [Installation and Libraries](#installation)
