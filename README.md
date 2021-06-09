@@ -1,4 +1,4 @@
-### Starbucks Capstone Project
+# Starbucks Capstone Project
 
 Installation
 Project Motivation
@@ -6,7 +6,7 @@ Run the project
 Conclusion and Results
 Acknowledgements
 
-# Table of Contents
+## Table of Contents
 
 1. [Installation and Libraries](#installation)
 2. [Project Motivation](#motivation)
@@ -15,7 +15,7 @@ Acknowledgements
 5. [Conclusion and Results](#results)
 6. [Acknowledgements](#ackn)
 
-## 1. Installation and Libraries <a name="installation"></a>
+### 1. Installation and Libraries <a name="installation"></a>
 
 - pandas
 - s
