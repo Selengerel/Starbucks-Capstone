@@ -13,3 +13,12 @@
 
 - pandas
 - s
+
+
+### 2. Project Motivation <a name="motivation"></a>
+ 
+- is to combine transaction, demographic and offer data to determine which demographic groups respond best to which offer type 
+- which group of people responds mostly to which type of offer?
+- how many offers of each type were completed?
+
+ what I offer we should send to each customer
