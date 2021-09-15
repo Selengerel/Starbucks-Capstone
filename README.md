@@ -49,3 +49,6 @@ This folder contains 4 files.
     - 1. Profile.json
     - 2. Portfolio.json
     - 3. transcript.json :
+
+## Result story:
+https://selen-gerel.medium.com/starbucks-capstone-project-dead86d74cd6
