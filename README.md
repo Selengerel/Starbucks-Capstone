@@ -50,5 +50,5 @@ This folder contains 4 files.
     - 2. Portfolio.json
     - 3. transcript.json :
 
-## Result story:
+## Results to be find in a blog post:
 https://selen-gerel.medium.com/starbucks-capstone-project-dead86d74cd6
